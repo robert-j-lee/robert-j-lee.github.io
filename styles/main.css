@@ -13,8 +13,19 @@ body {
   font-variation-settings: "wdth" 100;
 }
 
+.hero-head {
+  height: 10vh;
+  color: #f9fbf2;
+  background-color: #d7f9ff;
+  display: flex;
+  flex-direction: stretch;
+  align-items: center;
+  justify-content: bottom;
+  gap: 20px;
+}
+
 .hero-container {
-  height: 100vh;
+  height: 90vh;
   color: #f9fbf2;
   background-color: #0e1c36;
   display: flex;
