@@ -18,14 +18,14 @@ body {
   color: #f9fbf2;
   background-color: #d7f9ff;
   display: flex;
-  flex-direction: column-reverse;
-  align-items: center;
-  justify-content: center;
+  flex-direction: column-reverse
+  align-items: start;
+  justify-content: :start;
   gap: 20px;
 }
 
 .hero-container {
-  height: 90vh;
+  height: 80vh;
   color: #f9fbf2;
   background-color: #0e1c36;
   display: flex;
