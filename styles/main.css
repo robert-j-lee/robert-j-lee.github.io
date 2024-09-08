@@ -14,13 +14,13 @@ body {
 }
 
 .hero-head {
-  height: 10vh;
+  height: 20vh;
   color: #f9fbf2;
   background-color: #d7f9ff;
   display: flex;
-  flex-direction: stretch;
+  flex-direction: column-reverse;
   align-items: center;
-  justify-content: bottom;
+  justify-content: center;
   gap: 20px;
 }
 
